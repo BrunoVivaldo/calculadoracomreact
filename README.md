@@ -1,3 +1,3 @@
-# Calculaora com Reactjs e NodeJS.
+# Calculadora com Reactjs e Nodejs
 
-## Html, Css and Js
+## Learn React, building this project.
